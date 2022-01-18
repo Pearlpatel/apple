@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+button{
+    font-size: large;
+   background-color: khaki;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+canvas{
+    background-color: white;
+    border-color: black;
+    margin: 15px;
+    color: black;
+}
